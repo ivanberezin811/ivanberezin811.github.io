@@ -1,0 +1,22 @@
+{
+  "name": "playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run:tests:chrome": "dotenv npx playwright test --headed",
+    "run:allure:openReport": "allure generate allure-results -o allure-report --clean & allure open allure-report"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.41.2",
+    "@types/node": "^20.11.17",
+    "allure-playwright": "^2.12.2"
+  },
+  "dependencies": {
+    "chance": "^1.1.11",
+    "dotenv-cli": "^7.3.0"
+  }
+}
