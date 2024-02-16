@@ -51,4 +51,4 @@ jobs:
           context: 'Test report'
           state: 'success'
           sha: ${{ github.event.push.head.sha }}
-          target_url: https://ivanberezin811.github.io/github-allure-history/${{ github.run_number }}
+          target_url: https://ivanberezin811.github.io/${{ github.run_number }}
