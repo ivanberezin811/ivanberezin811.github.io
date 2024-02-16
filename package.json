@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "run:tests:chrome": "dotenv npx playwright test --headed",
-    "run:allure:openReport": "allure generate allure-results -o allure-report --clean & allure open allure-report"
+    "tests:chrome": "npx playwright test --project chromium",
+    "allure:openReport": "allure generate allure-results -o allure-report --clean & allure open allure-report"
   },
   "keywords": [],
   "author": "",
