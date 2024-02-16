@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Feb 16 16:04:34 GMT 2024","Fri Feb 16 16:04:37 GMT 2024","2470","chromium","login.spec.js","Log In","","","Should verify successful login",""
+"skipped","Fri Feb 16 16:04:34 GMT 2024","Fri Feb 16 16:04:34 GMT 2024","1","chromium","addresses.spec.js","Account address","","","Should verify adding new account address",""
