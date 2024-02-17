@@ -1,0 +1,1 @@
+[{"uid":"f047e932841b6e7e","name":"Should verify adding new account address","time":{"start":1708173273617,"stop":1708173273618,"duration":1},"status":"skipped","severity":"normal"},{"uid":"72300e25fe74161","name":"Should verify successful login","time":{"start":1708173273932,"stop":1708173277292,"duration":3360},"status":"passed","severity":"normal"}]
