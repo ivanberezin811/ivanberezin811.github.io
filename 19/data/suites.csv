@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"skipped","Mon Feb 19 12:45:10 GMT 2024","Mon Feb 19 12:45:10 GMT 2024","1","chromium","addresses.spec.js","Account address","","","Should verify adding new account address",""
+"passed","Mon Feb 19 12:45:10 GMT 2024","Mon Feb 19 12:45:16 GMT 2024","5925","chromium","filter.spec.js","Should verify filter functionality","","","Should verify filtering by Display count",""
+"passed","Mon Feb 19 12:45:16 GMT 2024","Mon Feb 19 12:45:19 GMT 2024","2464","chromium","login.spec.js","Log In","","","Should verify successful login",""
+"passed","Mon Feb 19 12:45:19 GMT 2024","Mon Feb 19 12:45:24 GMT 2024","5276","chromium","wishlist.spec.js","Should verify wishlist functionality","","","Should verify successful adding a product to wishlist",""
